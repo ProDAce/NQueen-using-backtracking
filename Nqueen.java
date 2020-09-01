@@ -1,5 +1,3 @@
-package algorithms;
-
 import java.util.*;
 public class Nqueen {
 	static int board[][];	//Board where queen is marked by 1
